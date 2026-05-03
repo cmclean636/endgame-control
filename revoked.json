@@ -1,1 +1,6 @@
-
+json
+   {
+     "revoked_codes": [],
+     "revoked_at": {},
+     "notes": "License codes listed here are revoked. The installer kill-switch checker reads this file daily and deletes the strategy from any machine running a revoked code."
+   }
